@@ -10,7 +10,7 @@
 <p><strong>Computer Science Student | Aspiring Software Developer</strong></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=walidmk7&style=flat&color=red&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Walid--Meski-red?style=flat&logo=linkedin)](https://linkedin.com/in/walid-meski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Walid--Meski-red?style=flat&logo=linkedin)]([https://linkedin.com/in/walid-meski](https://www.linkedin.com/in/walid-meski-b38129291/))
 [![Instagram](https://img.shields.io/badge/Instagram-walid__coding__10-red?style=flat&logo=instagram)](https://instagram.com/walid_coding_10)
 <br>
 </div>
