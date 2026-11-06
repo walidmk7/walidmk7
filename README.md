@@ -36,15 +36,15 @@
 ---
 
 ### 🔍 About Me
-- 🎓 I’m a **Computer Science Student** (23 years old).
+- 🎓 I’m a **computer engineering student** (24 years old).
 - 🚀 Passionate about learning new technologies and software development.
 - 💻 Currently building projects to improve my skills.
 - 📫 Connect with me on Instagram: **[walid_coding_10](https://instagram.com/walid_coding_10)**
 
 ```javascript
 const walid = {
-  age: 23,
-  status: "Student Developer",
+  age: 24,
+  status: "computer engineering student",
   tools: ["Python", "Java", "Web Dev"],
   location: "Morocco 🇲🇦",
   goal: "Become a Full Stack Engineer"
