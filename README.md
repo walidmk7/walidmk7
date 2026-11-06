@@ -7,7 +7,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="50%"/><br> 
 
 <h1>👋 Hi, I'm Walid Meski!</h1>
-<p><strong>Computer Science Student | Aspiring Software Developer</strong></p>
+<p><strong> computer engineering student | Aspiring Software Developer </strong></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=walidmk7&style=flat&color=red&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Walid--Meski-red?style=flat&logo=linkedin)](https://linkedin.com/in/walid-meski-b38129291)
